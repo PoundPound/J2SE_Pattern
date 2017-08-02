@@ -6,7 +6,7 @@
  * @date Jul 31, 2017 9:49:09 AM  
  * @version V1.0    
  */
-package com.concurrent.base.cyclicbarrier;
+package com.concurrent.higher;
 
 import java.util.Random;
 import java.util.concurrent.BrokenBarrierException;

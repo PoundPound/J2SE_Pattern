@@ -6,7 +6,7 @@
  * @date Jul 31, 2017 9:33:07 AM  
  * @version V1.0    
  */
-package com.concurrent.base.countdownlatch;
+package com.concurrent.higher;
 
 import java.util.concurrent.CountDownLatch;
 
